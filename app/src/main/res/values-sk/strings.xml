@@ -1,0 +1,59 @@
+<resources>
+
+    <string name="atm">bankomat</string>
+    <string name="bank">BREH</string>
+    <string name="enableinternet">Prosím , aby váš Internet</string>
+    <string name="skip">preskočiť</string>
+    <string name="finish">Skončiť</string>
+    <string name="splashtext1">bankomat a BREH LOCATOR</string>
+    <string name="splashtext3">POWERED BY ULTIMATE kódery</string>
+
+    <string name="Alert">bdelý!</string>
+    <string name="internerfailed">Jejda niečo pokazilo s pripojením k internetu</string>
+    <string name="noplace">nie v blízkosti Pri hľadaní nebol nájdený prosím zvýšiť polome</string>
+    <string name="note">Poznámka : Vysoká presnosť priorita môže spotrebovať vysoké energiu batérie</string>
+    <string name="highpriority">Vysoká presnosť prioritou</string>
+    <string name="balancepriority">prioritou rovnováha Presnosť</string>
+    <string name="lowpriority">presnosť s nízkou prioritou</string>
+    <string name="atmlocator">bankomat Locator</string>
+    <string name="banklocator">BREH Locator</string>
+    <string name="atmbanklocator">bankomat a BREH Locator</string>
+    <string name="Directionr">smer mapa</string>
+    <string name="nearbyatm">neďaleko bankomat</string>
+    <string name="nearbybank">neďaleko BREH</string>
+    <string name="nonearbyatm">nie neďaleko bankomat do</string>
+    <string name="nonearbybank">nie neďaleko BREH do</string>
+
+    <string name="gpssetting">nastavenie GPS</string>
+    <string name="gpsenabletext">GPS nie je povoliť ! Ísť do menu nastavenia ?</string>
+
+    <string name="networksenabletext">Nová mapa sa načíta, keď si váš mobilný pripojený k internetu, ale môžete prezerať svoje staré uložené virtuálne mapy od disising dialóg a otvoriť galériu z lište</string>
+
+    <string name="setting">nastavenie</string>
+    <string name="cancel">Zrušiť</string>
+    <string name="virtualpathtext">virtuálne mapa cesta</string>
+    <string name="save">uložiť</string>
+    <string name="proceed">pokračovať</string>
+    <string name="filename">Zadajte prosím názov Image</string>
+    <string name="savevirtual">virtuálne mapa úspešne uložiť</string>
+    <string name="imagefailed">Jejda niečo pokazilo prosím vyskúšať znovu neskôr</string>
+
+    <string name="noimage">nie virtuálne mapa zatiaľ uložené</string>
+
+    <string name="virtualmap">virtuálne mapa Galéria</string>
+    <string name="help">Pomoc</string>
+
+    <string name="swipe1">Výber Point , vybrať pre bankomat alebo breh</string>
+    <string name="swipe2">Ak chcete nastaviť individuálne parametre nastavenia vyhľadávania pre vyhľadávanie</string>
+    <string name="swipe3">Môžete uložiť Virtuálna mapa akýmkoľvek menom a zobraziť v režime offline našej poskytnuté interným galériu</string>
+    <string name="swipe4">Trvať prichádza požadovanej polohe kamaráta</string>
+
+    <string name="ok">OK</string>
+    <string name="Destination">Destinácia</string>
+    <string name="YourStartLocation">Váš štart Miesto</string>
+    <string name="Radius">Polomer :-</string>
+    <string name="Pleasewait">Prosím čakajte</string>
+    <string name="TotalTime">celkový čas </string>
+    <string name="TotalDistance">celková vzdialenosť </string>
+
+</resources>

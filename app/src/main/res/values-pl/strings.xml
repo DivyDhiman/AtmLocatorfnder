@@ -1,0 +1,56 @@
+<resources>
+
+    <string name="atm">bankomat</string>
+    <string name="bank">BANK</string>
+    <string name="enableinternet">Proszę włączyć internet</string>
+    <string name="skip">Pominąć</string>
+    <string name="finish">koniec</string>
+    <string name="splashtext1">bankomat i BANK LOKALIZATOR</string>
+    <string name="splashtext3">NAPĘDZANY PRZEZ OSTATECZNY koderów</string>
+
+    <string name="Alert">Alarm!</string>
+    <string name="internerfailed">Ups coś poszło nie tak z podłączeniem do Internetu</string>
+    <string name="noplace">NO pobliżu Znaleziono należy zwiększyć promień</string>
+    <string name="note">Uwaga: Wysoka dokładność priorytet może spożywać dużą moc baterii</string>
+    <string name="highpriority">Wysoka dokładność priorytetem</string>
+    <string name="balancepriority">Dokładność priorytetem Wagi</string>
+    <string name="lowpriority">Niska dokładność priorytetem</string>
+    <string name="atmlocator">Atm Locator</string>
+    <string name="banklocator">Banku Locator</string>
+    <string name="atmbanklocator">ATM oraz Banku Locator</string>
+    <string name="Directionr">Mapa Direction</string>
+    <string name="nearbyatm">Blisko przez ATM</string>
+    <string name="nearbybank">Blisko przez banku</string>
+    <string name="nonearbyatm">W pobliżu nie ma bankomatu , aż</string>
+    <string name="nonearbybank">Nie pobliżu przez bank do</string>
+
+    <string name="gpssetting">Ustawienia GPS</string>
+    <string name="gpsenabletext">GPS nie pozwalają ! Chcesz , aby przejść do menu ustawień ?</string>
+    <string name="setting">Ustawienia</string>
+    <string name="cancel">Anuluj</string>
+    <string name="virtualpathtext">Ścieżka wirtualna mapa</string>
+    <string name="save">Zapisać</string>
+    <string name="proceed">Kontynuować</string>
+    <string name="filename">Proszę podać nazwę obrazu</string>
+    <string name="savevirtual">Wirtualna Mapa zapisać powodzeniem</string>
+    <string name="imagefailed">Ups coś poszło źle Spróbuj ponownie później</string>
+
+    <string name="noimage">Na razie brak wirtualne mapy zapisane</string>
+    <string name="virtualmap">Wirtualna Mapa Galeria</string>
+    <string name="help">Pomoc</string>
+
+    <string name="swipe1">Wybór Point, aby wybrać dla bankomatu lub banku</string>
+    <string name="swipe2">Aby ustawić indywidualne ustawienia parametrów wyszukiwania dla</string>
+    <string name="swipe3">Może uratować Wirtualna Mapa dowolnym imieniem i wyświetlić je w trybie offline przez naszego wewnętrznego przewidzianego Galerii</string>
+    <string name="swipe4">Trwają tu pojawia żądanej lokalizacji kolego</string>
+
+    <string name="ok">OK</string>
+    <string name="Destination">Cel</string>
+    <string name="YourStartLocation">Twój start Lokalizacja</string>
+    <string name="Radius">Promień :-</string>
+    <string name="Pleasewait">Proszę czekać</string>
+    <string name="TotalTime">Czas całkowity </string>
+    <string name="TotalDistance">Całkowity dystans </string>
+    <string name="networksenabletext">Nowa mapa ładuje się , gdy telefon komórkowy podłączony do Internetu , ale można zobaczyć stare zapisane wirtualne mapy przez disising dialogu i otworzyć galerię z paska menu</string>
+
+</resources>

@@ -1,0 +1,58 @@
+<resources>
+
+    <string name="atm">ATM</string>
+    <string name="bank">BANK</string>
+    <string name="enableinternet">Please enable your Internet</string>
+    <string name="skip">Skip</string>
+    <string name="finish">Finish</string>
+    <string name="splashtext1">ATM and BANK LOCATOR</string>
+    <string name="splashtext3">POWERED BY ULTIMATE CODERS</string>
+
+    <string name="Alert">Alert!</string>
+    <string name="internerfailed">Oops something went wrong with your internet connection</string>
+    <string name="noplace">NO near by search found please increase the radius</string>
+    <string name="note">Note : High priority accuracy may consume high battery power</string>
+    <string name="highpriority">High priority accuracy</string>
+    <string name="balancepriority">Balance priority accuracy</string>
+    <string name="lowpriority">Low priority accuracy</string>
+    <string name="atmlocator">Atm Locator</string>
+    <string name="banklocator">Bank Locator</string>
+    <string name="atmbanklocator">Atm and Bank Locator</string>
+    <string name="Directionr">Map Direction</string>
+    <string name="nearbyatm">Near By Atm</string>
+    <string name="nearbybank">Near By Bank</string>
+    <string name="nonearbyatm">No Near by atm till</string>
+    <string name="nonearbybank">No Near by bank till</string>
+
+    <string name="gpssetting">GPS SETTINGS</string>
+    <string name="gpsenabletext">GPS is not enable! Want to go to settings menu?</string>
+    <string name="setting">Settings</string>
+    <string name="cancel">Cancel</string>
+    <string name="virtualpathtext">Virtual Map Path</string>
+    <string name="save">Save</string>
+    <string name="proceed">Proceed</string>
+    <string name="savevirtual">Virtual Map save successfully</string>
+    <string name="imagefailed">Oops something went wrong Please try again later</string>
+    <string name="filename">Please Enter Image name</string>
+
+    <string name="noimage">No virtual map saved yet</string>
+
+    <string name="virtualmap">Virtual Map Gallery</string>
+    <string name="help">Help</string>
+
+    <string name="swipe1">Selection Point, to select for ATM or Bank</string>
+    <string name="swipe2">To set the personalized search setting parameters for search</string>
+    <string name="swipe3">Can Save the Virtual Map by any name and view it offline by our provided internal Gallery</string>
+    <string name="swipe4">Last here comes your desired location buddy</string>
+
+    <string name="ok">OK</string>
+    <string name="Destination">Destination</string>
+    <string name="YourStartLocation">Your Start Location</string>
+    <string name="Radius">Radius :-</string>
+    <string name="Pleasewait">Please wait</string>
+    <string name="TotalTime">Total Time </string>
+    <string name="TotalDistance">Total Distance </string>
+
+    <string name="networksenabletext">New Map will load when your mobile get connected to internet, but can view your old saved virtual maps by disising dialogue and open the gallery from menu bar</string>
+
+</resources>

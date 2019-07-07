@@ -1,0 +1,59 @@
+<resources>
+
+    <string name="atm">Банкомат</string>
+    <string name="bank">БАНК</string>
+    <string name="enableinternet">Будь ласка , включіть Ваш Інтернет</string>
+    <string name="skip">скакати</string>
+    <string name="finish">обробка</string>
+    <string name="splashtext1">Банкомат і БАНК локатор</string>
+    <string name="splashtext3">З ЛАДУ ULTIMATE кодери</string>
+
+    <string name="Alert">пильний!</string>
+    <string name="internerfailed">На жаль , щось пішло не так з підключенням до Інтернету</string>
+    <string name="noplace">Немає поруч пошуку не знайдено , будь ласка , збільшити радіус</string>
+    <string name="note">Примітка : Висока точність пріоритет може споживати високу потужність батареї</string>
+    <string name="highpriority">Висока точність пріоритет</string>
+    <string name="balancepriority">очність балансу пріоритетів</string>
+    <string name="lowpriority">Точність Низький пріоритет</string>
+    <string name="atmlocator">Банкомат локатор</string>
+    <string name="banklocator">БАНК локатор</string>
+    <string name="atmbanklocator">Банкомат і БАНК локатор</string>
+    <string name="Directionr">Карта Напрямок</string>
+    <string name="nearbyatm">поруч Банкомат</string>
+    <string name="nearbybank">поруч БАНК</string>
+    <string name="nonearbyatm">Немає поруч Банкомат до</string>
+    <string name="nonearbybank">Немає поруч БАНК до</string>
+
+    <string name="gpssetting">Налаштування GPS</string>
+    <string name="gpsenabletext">GPS не дозволить ! Хочете перейти в меню налаштувань ?</string>
+
+    <string name="networksenabletext">Нова карта буде завантажуватися , коли ваш мобільний підключитися до Інтернету , але можуть переглядати старі збережені віртуальні картки за допомогою disising діалогу і відкрити галерею з меню</string>
+
+    <string name="setting">настройки</string>
+    <string name="cancel">скасувати</string>
+    <string name="virtualpathtext">Віртуальна карта Шлях</string>
+    <string name="save">зберегти</string>
+    <string name="proceed">продовжити</string>
+    <string name="filename">Будь ласка , введіть ім\'я зображення</string>
+    <string name="savevirtual">Віртуальна карта успішно зберегти</string>
+    <string name="imagefailed">На жаль , щось пішло не так ласка , спробуйте ще раз</string>
+
+    <string name="noimage">Немає віртуальної карти не зберігаються ще</string>
+
+    <string name="virtualmap">Віртуальна карта Галерея</string>
+    <string name="help">допомога</string>
+
+    <string name="swipe1">Вибір точки , щоб вибрати для банкомату або банку</string>
+    <string name="swipe2">Для того , щоб встановити індивідуальні параметри налаштування пошуку для пошуку</string>
+    <string name="swipe3">Може зберегти віртуальну карту будь-яким ім\'ям і його перегляду в автономному режимі з нашою внутрішньою галереї , наданої</string>
+    <string name="swipe4">Тут в останній раз приходить на ваш бажаний приятель розташування</string>
+
+    <string name="ok">добре</string>
+    <string name="Destination">призначення</string>
+    <string name="YourStartLocation">Ваш Старт Розташування</string>
+    <string name="Radius">радіус :-</string>
+    <string name="Pleasewait">Будь ласка , зачекайте</string>
+    <string name="TotalTime">загальний час </string>
+    <string name="TotalDistance">Загальна відстань </string>
+
+</resources>

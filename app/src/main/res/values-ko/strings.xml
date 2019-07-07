@@ -1,0 +1,57 @@
+<resources>
+
+    <string name="atm">ATM</string>
+    <string name="bank">은행</string>
+    <string name="enableinternet">인터넷 을 사용 하시기 바랍니다</string>
+    <string name="skip">버킷</string>
+    <string name="finish">끝</string>
+    <string name="splashtext1">ATM 과 은행 토지 경계 설정자</string>
+    <string name="splashtext3">POWERED 으로 최고의 코더</string>
+
+    <string name="Alert">경보!</string>
+    <string name="internerfailed">아차 뭔가 인터넷 연결 에 문제가 발생했습니다</string>
+    <string name="noplace">아니 근처 로 검색 반경을 증가 하십시오 발견</string>
+    <string name="note">참고 : 우선 순위가 높은 정밀도가 높은 배터리 전력을 소비 할 수있다</string>
+    <string name="highpriority">우선 순위가 높은 정확도</string>
+    <string name="balancepriority">밸런스 우선 정확도</string>
+    <string name="lowpriority">우선 순위가 낮은 정확도</string>
+    <string name="atmlocator">기압 찾기</string>
+    <string name="banklocator">은행 로케이터</string>
+    <string name="atmbanklocator">ATM 및 은행 찾기</string>
+    <string name="Directionr">지도 위치</string>
+    <string name="nearbyatm">으로 현금 지급기 근처</string>
+    <string name="nearbybank">으로 은행 근처</string>
+    <string name="nonearbyatm">더 가까이 하지 기압 으로 까지</string>
+    <string name="nonearbybank">아니 근처 없는 은행 으로 까지</string>
+
+    <string name="gpssetting">GPS 의 설정</string>
+    <string name="gpsenabletext">GPS 가 활성화 되지 않습니다 ! 설정 메뉴로 이동 하고 싶으십니까?</string>
+    <string name="setting">설정</string>
+    <string name="cancel">취소하다</string>
+    <string name="virtualpathtext">가상 지도 경로</string>
+    <string name="save">구하다</string>
+    <string name="proceed">발하다</string>
+    <string name="filename">이미지 의 이름을 입력 해주세요</string>
+    <string name="savevirtual">가상 지도 를 성공적으로 저장</string>
+    <string name="imagefailed">아차 뭔가 잘못 나중에 다시 시도하십시오</string>
+
+    <string name="noimage">어떤 가상 지도 아직 저장되지</string>
+
+    <string name="virtualmap">가상 지도 갤러리</string>
+    <string name="help">도움</string>
+
+    <string name="swipe1">선택 포인트 , ATM 또는 은행 에 대한 선택</string>
+    <string name="swipe2">검색을위한 맞춤 검색 설정 매개 변수를 설정하려면</string>
+    <string name="swipe3">어떤 이름으로 가상 지도 를 저장 하고 제공하는 내부 갤러리 에서 오프라인으로 볼 수</string>
+    <string name="swipe4">여기에 마지막으로 원하는 위치 친구 온다</string>
+
+    <string name="ok">그래</string>
+    <string name="Destination">목적지</string>
+    <string name="YourStartLocation">당신의 시작 위치</string>
+    <string name="Radius">반지름 :-</string>
+    <string name="Pleasewait">기다려주십시오</string>
+    <string name="TotalTime">총 시간 </string>
+    <string name="TotalDistance">총 거리 </string>
+    <string name="networksenabletext">새로운 지도 는 휴대 가 인터넷에 연결 받을 때 로드 하지만, 대화를 disising 으로 이전 저장된 가상 지도를 볼 수 있으며, 메뉴 바에서 갤러리 를 엽니 다</string>
+
+</resources>

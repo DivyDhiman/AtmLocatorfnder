@@ -1,0 +1,59 @@
+<resources>
+
+    <string name="atm">bankomatas</string>
+    <string name="bank">BANKAS</string>
+    <string name="enableinternet">Prašome įjungti savo interneto</string>
+    <string name="skip">praleisti</string>
+    <string name="finish">Baigti</string>
+    <string name="splashtext1">Bankomatų ir banko LOCATOR</string>
+    <string name="splashtext3">Pagaminta naudojant \" ULTIMATE programuotojams</string>
+
+    <string name="Alert">Budrus!</string>
+    <string name="internerfailed">Oi kažkas negerai su jūsų interneto ryšio</string>
+    <string name="noplace">NE šalia paiešką nerasta prašome padidinti spindulys</string>
+    <string name="note">Pastaba: Aukšto prioriteto tikslumas gali vartoti didelį baterijos energiją</string>
+    <string name="highpriority">Didelis prioritetas tikslumas</string>
+    <string name="balancepriority">Balansas prioritetas tikslumas</string>
+    <string name="lowpriority">Žemas prioritetas tikslumas</string>
+    <string name="atmlocator">bankomatas Locator</string>
+    <string name="banklocator">BANKAS Locator</string>
+    <string name="atmbanklocator">bankomatas ir BANKAS Locator</string>
+    <string name="Directionr">Žemėlapis Kryptis</string>
+    <string name="nearbyatm">Netoli bankomatas</string>
+    <string name="nearbybank">Netoli BANKAS</string>
+    <string name="nonearbyatm">ne Netoli bankomatas iki</string>
+    <string name="nonearbybank">ne Netoli BANKAS iki</string>
+
+    <string name="gpssetting">GPS NUSTATYMAI</string>
+    <string name="gpsenabletext">GPS neleidžia ! Nori eiti į nustatymų meniu ?</string>
+
+    <string name="networksenabletext">Naujos Žemėlapis bus įkelti , kai jūsų mobilusis gauti prijungtas prie interneto , bet gali peržiūrėti senus išsaugotus virtualių žemėlapių disising dialogą ir atidarykite galeriją iš meniu juostos</string>
+
+    <string name="setting">Nustatymai</string>
+    <string name="cancel">atšaukti</string>
+    <string name="virtualpathtext">Virtualus Žemėlapis Kelias</string>
+    <string name="save">Sutaupyti</string>
+    <string name="proceed">pereiti</string>
+    <string name="filename">Prašome įvesti Paveiksliuko pavadinimas</string>
+    <string name="savevirtual">Virtualus Žemėlapis išsaugoti sėkmingai</string>
+    <string name="imagefailed">Oi kažkas negerai Prašome pabandyti vėliau</string>
+
+    <string name="noimage">Nėra virtualus žemėlapis išgelbėti dar</string>
+
+    <string name="virtualmap">Virtualus Žemėlapis galerija</string>
+    <string name="help">padėti</string>
+
+    <string name="swipe1">Atrankos punktas , pasirinkti ATM arba banko</string>
+    <string name="swipe2">Norėdami nustatyti asmeninį paieška parametrų nustatymas paiešką</string>
+    <string name="swipe3">Gali išgelbėti Virtualus Žemėlapis bet vardu ir peržiūrėti jį offline mūsų teikiamos vidaus galerijoje</string>
+    <string name="swipe4">Paskutinis čia ateina jūsų norimą vietą bičiulių</string>
+
+    <string name="ok">Gerai</string>
+    <string name="Destination">Kelionės tikslas</string>
+    <string name="YourStartLocation">Jūsų Pradėti kur</string>
+    <string name="Radius">spindulys :-</string>
+    <string name="Pleasewait">Prašau palauk</string>
+    <string name="TotalTime">viso laiko </string>
+    <string name="TotalDistance">Iš viso Atstumas </string>
+
+</resources>

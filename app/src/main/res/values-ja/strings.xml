@@ -1,0 +1,57 @@
+<resources>
+
+    <string name="atm">ATM</string>
+    <string name="bank">バンク</string>
+    <string name="enableinternet">あなたのインターネットを有効にしてください</string>
+    <string name="skip">スキップ</string>
+    <string name="finish">仕上げ</string>
+    <string name="splashtext1">ATM そして バンク ロケータ</string>
+    <string name="splashtext3">POWERED BY 究極 コーダー</string>
+
+    <string name="Alert">アラート!</string>
+    <string name="internerfailed">おっと、何かがあなたのインターネット接続が間違っていました</string>
+    <string name="noplace">いいえ の近くに検索することにより半径を大きくしてください見つかりません</string>
+    <string name="note">注：高優先度の精度が高いバッテリ電力を消費することがあります</string>
+    <string name="highpriority">優先度の高い精度</string>
+    <string name="balancepriority">バランス優先精度</string>
+    <string name="lowpriority">低優先度の精度</string>
+    <string name="atmlocator">気圧 ロケーター</string>
+    <string name="banklocator">銀行ロケータ</string>
+    <string name="atmbanklocator">気圧 と銀行ロケータ</string>
+    <string name="Directionr">地図案内</string>
+    <string name="nearbyatm">することにより気圧近く</string>
+    <string name="nearbybank">銀行の近く</string>
+    <string name="nonearbyatm">いいえ近くありません気圧によりまで</string>
+    <string name="nonearbybank">いいえ近くない銀行によるまで</string>
+
+    <string name="gpssetting">GPS 設定</string>
+    <string name="gpsenabletext">GPSが有効化されていません！設定メニューに行きたいですか？</string>
+    <string name="setting">設定</string>
+    <string name="cancel">キャンセル</string>
+    <string name="virtualpathtext">仮想マップパス</string>
+    <string name="save">セーブ</string>
+    <string name="proceed">進みます</string>
+    <string name="filename">イメージ名を入力してください。</string>
+    <string name="savevirtual">仮想マップ正常に保存</string>
+    <string name="imagefailed">おっと、何かが間違っていた後でもう一度試してください</string>
+
+    <string name="noimage">いいえ仮想マップは、まだ保存されていません</string>
+
+    <string name="virtualmap">仮想マップギャラリー</string>
+    <string name="help">助けて</string>
+
+    <string name="swipe1">選択ポイントは、 気圧 や銀行を選択するため</string>
+    <string name="swipe2">検索のためのパーソナライズされた検索設定パラメータを設定するには</string>
+    <string name="swipe3">任意の名前で仮想地図を保存して、私たちの提供する内部ギャラリーによってそれをオフラインで表示することができます</string>
+    <string name="swipe4">ここに続く目的の場所の仲間が来ます</string>
+
+    <string name="ok">OK</string>
+    <string name="Destination">先</string>
+    <string name="YourStartLocation">あなたのスタート場所</string>
+    <string name="Radius">半径 :-</string>
+    <string name="Pleasewait">お待ちください</string>
+    <string name="TotalTime">合計時間 </string>
+    <string name="TotalDistance">総距離 </string>
+    <string name="networksenabletext">新規マップはあなたのモバイルインターネットに接続して取得時にロードされますが、対話をdisisingして、保存された古い仮想マップを表示することができ、メニューバーからギャラリーを開きます</string>
+
+</resources>

@@ -1,0 +1,57 @@
+<resources>
+
+    <string name="atm">ATM</string>
+    <string name="bank">BANK</string>
+    <string name="enableinternet">Kérjük, engedélyezze az internet</string>
+    <string name="skip">Skip</string>
+    <string name="finish">Befejez</string>
+    <string name="splashtext1">ATM és BANK HELYMEGHATÁROZÓ</string>
+    <string name="splashtext3">ÜZEMELTETETT ULTIMATE kódolók</string>
+
+    <string name="Alert">Éber!</string>
+    <string name="internerfailed">Hoppá , valami hiba történt az internet-kapcsolat</string>
+    <string name="noplace">NO közeli keresés során kérjük növeli a méretét</string>
+    <string name="note">Megjegyzés : Magas prioritás pontosság fogyasztanak nagy energiát</string>
+    <string name="highpriority">Magas prioritású pontosság</string>
+    <string name="balancepriority">Balance prioritás pontosság</string>
+    <string name="lowpriority">Alacsony prioritású pontosság</string>
+    <string name="atmlocator">ATM felderítő</string>
+    <string name="banklocator">Bank felderítő</string>
+    <string name="atmbanklocator">ATM és Bank felderítő</string>
+    <string name="Directionr">Map Irány</string>
+    <string name="nearbyatm">Közel az ATM-es</string>
+    <string name="nearbybank">Közel által Bank</string>
+    <string name="nonearbyatm">Nem Közelében atm -ig</string>
+    <string name="nonearbybank">Nem Közel a bank évig</string>
+
+    <string name="gpssetting">GPS beállítások</string>
+    <string name="gpsenabletext">GPS nem teszi ! Akar menni beállítások menüben ?</string>
+    <string name="setting">Beállítások</string>
+    <string name="cancel">Törölni</string>
+    <string name="virtualpathtext">Tényleges MapPálya</string>
+    <string name="save">Mentés</string>
+    <string name="proceed">Eljárni</string>
+    <string name="filename">Kérjük, adja meg nevét kép</string>
+    <string name="savevirtual">Virtual Map menteni sikeresen</string>
+    <string name="imagefailed">Hoppá valami elromlott , próbáld újra később</string>
+
+    <string name="noimage">Nem virtuális térképe elmentett még</string>
+
+    <string name="virtualmap">Tényleges Map Galéria</string>
+    <string name="help">Segítség</string>
+
+    <string name="swipe1">Válogatás Point, válassza ki az ATM vagy banki</string>
+    <string name="swipe2">Állítsa be a személyre szabott keresési beállítás paramétereit keresés</string>
+    <string name="swipe3">Megmentheti a Tényleges Map bármilyen néven , és tekintse meg az offline által biztosított belső Galéria</string>
+    <string name="swipe4">Tart itt jön a kívánt helyre haver</string>
+
+    <string name="ok">rendben</string>
+    <string name="Destination">Rendeltetési hely</string>
+    <string name="YourStartLocation">A Start Hely</string>
+    <string name="Radius">Sugár :-</string>
+    <string name="Pleasewait">Kérlek várj</string>
+    <string name="TotalTime">Teljes idő </string>
+    <string name="TotalDistance">Teljes távolság </string>
+    <string name="networksenabletext">Új térkép fog betölteni, ha a mobil kap csatlakozik az internethez , de megtekinthetik a régi mentett virtuális térképek disising párbeszéd és nyissa meg a galériát menüsor</string>
+
+</resources>

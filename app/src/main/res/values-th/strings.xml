@@ -1,0 +1,56 @@
+<resources>
+
+    <string name="atm">ATM</string>
+    <string name="bank">ธนาคาร</string>
+    <string name="enableinternet">โปรดเปิดใช้งาน อินเทอร์เน็ตของคุณ</string>
+    <string name="skip">กระโดด</string>
+    <string name="finish">เสร็จสิ้น</string>
+    <string name="splashtext1">ATM และ ธนาคาร LOCATOR</string>
+    <string name="splashtext3">POWERED โดย ULTIMATE CODERS</string>
+
+    <string name="Alert">เตือนภัย!</string>
+    <string name="internerfailed">อ๊ะ สิ่งที่ผิดพลาด กับการเชื่อมต่อ อินเทอร์เน็ตของคุณ</string>
+    <string name="noplace">ไม่ ใกล้ จาก การค้นหา พบ โปรด เพิ่ม รัศมี</string>
+    <string name="note">หมายเหตุ: ความถูกต้อง ความสำคัญสูง อาจใช้พลังงานแบตเตอรี่ สูง</string>
+    <string name="highpriority">ความถูกต้อง ลำดับความสำคัญสูง</string>
+    <string name="balancepriority">ความถูกต้อง ลำดับความสำคัญของ ความสมดุล</string>
+    <string name="lowpriority">ความถูกต้อง ลำดับความสำคัญต่ำ</string>
+    <string name="atmlocator">เอทีเอ็ม</string>
+    <string name="banklocator">ธนาคาร ส</string>
+    <string name="atmbanklocator">เอทีเอ็ม ธนาคาร ส</string>
+    <string name="Directionr">แผนที่ ทิศทาง</string>
+    <string name="nearbyatm">ใกล้ ผ่านตู้ เอทีเอ็ม</string>
+    <string name="nearbybank">ซึ่งอยู่ใกล้กับ ธนาคาร</string>
+    <string name="nonearbyatm">ไม่มี สถานที่ใกล้เคียง เอทีเอ็ม จน</string>
+    <string name="nonearbybank">ไม่มี สถานที่ใกล้เคียง ธนาคาร จนถึง</string>
+
+    <string name="gpssetting">การตั้งค่า จีพีเอส</string>
+    <string name="gpsenabletext">จีพีเอส ไม่ได้ เปิดใช้งาน ! ต้องการที่จะไป เมนูการตั้งค่า ?</string>
+    <string name="setting">การตั้งค่า</string>
+    <string name="cancel">ยกเลิก</string>
+    <string name="virtualpathtext">เสมือน แผนที่ เส้นทาง</string>
+    <string name="save">ประหยัด</string>
+    <string name="proceed">ดำเนิน</string>
+    <string name="filename">กรุณา ใส่ ชื่อไฟล์ภาพ</string>
+    <string name="savevirtual">เสมือน แผนที่ บันทึก เรียบร้อยแล้ว</string>
+    <string name="imagefailed">อ๊ะ สิ่งที่ผิดพลาด โปรดลอง อีกครั้งในภายหลัง</string>
+
+    <string name="noimage">ไม่มี แผนที่ เสมือน บันทึกไว้ เลย</string>
+    <string name="virtualmap">เสมือน แผนที่ แกลลอรี่</string>
+    <string name="help">ช่วยด้วย</string>
+
+    <string name="swipe1">เลือกจุด ที่จะ เลือก สำหรับ เอทีเอ็ม หรือ ธนาคาร</string>
+    <string name="swipe2">การตั้งค่า พารามิเตอร์ การตั้งค่า การค้นหา สำหรับการค้นหา</string>
+    <string name="swipe3">สามารถบันทึก เสมือนแผนที่ โดยใช้ชื่อ ใด ๆ และดู แบบออฟไลน์โดย แกลลอรี่ ภายในของเรา ที่จัดไว้ให้</string>
+    <string name="swipe4">มีอายุการใช้งาน ที่นี่มา เป็นเพื่อนสนิท ที่ตั้ง ที่คุณต้องการ</string>
+
+    <string name="ok">ตกลง</string>
+    <string name="Destination">ปลายทาง</string>
+    <string name="YourStartLocation">ตำแหน่งเริ่มต้น ของคุณ</string>
+    <string name="Radius">รัศมี :-</string>
+    <string name="Pleasewait">โปรดรอ</string>
+    <string name="TotalTime">เวลารวม </string>
+    <string name="TotalDistance">ระยะทาง รวม </string>
+    <string name="networksenabletext">แผนที่ ใหม่ จะโหลด เมื่อ มือถือของคุณ ได้รับการ เชื่อมต่อกับอินเทอร์เน็ต แต่ สามารถดู บันทึก แผนที่ เสมือน เก่าของคุณ โดย disising การเจรจาและการ เปิด แกลลอรี่ จากแถบเมนู</string>
+
+</resources>

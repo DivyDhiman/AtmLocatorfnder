@@ -1,0 +1,59 @@
+<resources>
+
+    <string name="atm">pankkiautomaatti</string>
+    <string name="bank">PANKKI</string>
+    <string name="enableinternet">Salli Internet</string>
+    <string name="skip">hyppiä</string>
+    <string name="finish">Suorittaa loppuun</string>
+    <string name="splashtext1">pankkiautomaatti ja PANKKI LOCATOR</string>
+    <string name="splashtext3">KÄYTTÖVOIMANA ULTIMATE Coders</string>
+
+    <string name="Alert">hälytys!</string>
+    <string name="internerfailed">Hups jokin meni vikaan internetyhteys</string>
+    <string name="noplace">NO lähellä on löytynyt hyvä lisätä säde</string>
+    <string name="note">Huomautus : Ensisijainen tarkkuus voi kuluttaa suuren akun virtaa</string>
+    <string name="highpriority">Korkean prioriteetin tarkkuus</string>
+    <string name="balancepriority">Saldo prioriteetti tarkkuus</string>
+    <string name="lowpriority">Alhainen prioriteetti tarkkuus</string>
+    <string name="atmlocator">pankkiautomaatti Locator</string>
+    <string name="banklocator">PANKKI Locator</string>
+    <string name="atmbanklocator">pankkiautomaatti ja PANKKI Locator</string>
+    <string name="Directionr">kartta suunta</string>
+    <string name="nearbyatm">Near By pankkiautomaatti</string>
+    <string name="nearbybank">lähellä PANKKI</string>
+    <string name="nonearbyatm">Ei lähellä pankkiautomaatti asti</string>
+    <string name="nonearbybank">Ei lähellä PANKKI asti</string>
+
+    <string name="gpssetting">GPS-asetukset</string>
+    <string name="gpsenabletext">GPS ei ole mahdollista ! Haluatko mennä -valikossa ?</string>
+
+    <string name="networksenabletext">Uusi kartta latautuu kun mobiili saada yhteys Internetiin, mutta voi tarkastella vanha tallennettu virtuaalinen karttoja disising vuoropuhelua ja avata gallerian valikkoriviltä</string>
+
+    <string name="setting">Asetukset</string>
+    <string name="cancel">Peruuttaa</string>
+    <string name="virtualpathtext">virtuaali- Kartta polku</string>
+    <string name="save">Tallentaa</string>
+    <string name="proceed">Edetä</string>
+    <string name="filename">nna Image nimi</string>
+    <string name="savevirtual">virtuaali- Kartta tallenna onnistuneesti</string>
+    <string name="imagefailed">Hups jokin meni pieleen , yritä myöhemmin uudelleen</string>
+
+    <string name="noimage">Ei virtuaali- Kartta vielä tallennettu</string>
+
+    <string name="virtualmap">virtuaali- Kartta galleria</string>
+    <string name="help">Auttaa</string>
+
+    <string name="swipe1">Valinta Point , valitsemiseksi pankkiautomaatti tai pankin</string>
+    <string name="swipe2">Jos haluat asettaa henkilökohtaisen hakusäätö parametrit hakuun</string>
+    <string name="swipe3">Voiko Tallenna virtuaali- Kartta tahansa nimen ja tarkastella sitä offline meidän säädetty sisäinen Galleria</string>
+    <string name="swipe4">Viimeinen tässä tulee haluamaasi paikkaan kaveri</string>
+
+    <string name="ok">kunnossa</string>
+    <string name="Destination">määränpää</string>
+    <string name="YourStartLocation">alku Sijainti</string>
+    <string name="Radius">Säde :-</string>
+    <string name="Pleasewait">Odota </string>
+    <string name="TotalTime">Kokonaisaika </string>
+    <string name="TotalDistance">Yhteensä Etäisyys </string>
+
+</resources>

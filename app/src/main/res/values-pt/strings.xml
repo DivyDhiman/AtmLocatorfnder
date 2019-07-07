@@ -1,0 +1,56 @@
+<resources>
+
+    <string name="atm">caixa eletrônico</string>
+    <string name="bank">BANCO</string>
+    <string name="enableinternet">Ative seu Internet</string>
+    <string name="skip">Pular</string>
+    <string name="finish">Terminar</string>
+    <string name="splashtext1">caixa eletrônico e BANCO LOCALIZADOR</string>
+    <string name="splashtext3">EQUIPADO COM FINAL codificadores</string>
+
+    <string name="Alert">Alerta!</string>
+    <string name="internerfailed">Oops algo deu errado com sua conexão de internet</string>
+    <string name="noplace">NO perto pesquisa encontrou favor aumentar o raio</string>
+    <string name="note">Nota: exatidão alta prioridade pode consumir alta energia da bateria</string>
+    <string name="highpriority">Alta precisão de prioridade</string>
+    <string name="balancepriority">Exatidão prioridade equilíbrio</string>
+    <string name="lowpriority">Exatidão baixa prioridade</string>
+    <string name="atmlocator">Atm Locator</string>
+    <string name="banklocator">Banco Locator</string>
+    <string name="atmbanklocator">Atm e Banco Locator</string>
+    <string name="Directionr">Direção mapa</string>
+    <string name="nearbyatm">Perto por Multibanco</string>
+    <string name="nearbybank">Perto pelo banco</string>
+    <string name="nonearbyatm">Sem Perto de atm até</string>
+    <string name="nonearbybank">Sem Perto pelo banco até</string>
+
+    <string name="gpssetting">DEFINIÇÕES GPS</string>
+    <string name="gpsenabletext">GPS não é permitir ! Quer ir para o menu de configurações ?</string>
+    <string name="setting">Configurações</string>
+    <string name="cancel">Cancelar</string>
+    <string name="virtualpathtext">Path Mapa Virtual</string>
+    <string name="save">Salvar</string>
+    <string name="proceed">Prosseguir</string>
+    <string name="filename">Por favor, indique nome da imagem</string>
+    <string name="savevirtual">Virtual Mapa salvar com sucesso</string>
+    <string name="imagefailed">Oops algo deu errado Por favor, tente novamente mais tarde</string>
+
+    <string name="noimage">No mapa virtual salvo ainda</string>
+    <string name="virtualmap">Virtual Mapa Galeria</string>
+    <string name="help">Socorro</string>
+
+    <string name="swipe1">Seleção de ponto , para selecionar para ATM ou do Banco</string>
+    <string name="swipe2">Para definir os parâmetros de configuração de pesquisa personalizado para pesquisa</string>
+    <string name="swipe3"> Pode salvar o Mapa Virtual por qualquer nome e visualizá-lo off-line, nossa Galeria interno fornecido</string>
+    <string name="swipe4">Durar aqui vem seu amigo local desejado</string>
+
+    <string name="ok">Está bem</string>
+    <string name="Destination">Destino</string>
+    <string name="YourStartLocation">O seu local de início</string>
+    <string name="Radius">Raio :-</string>
+    <string name="Pleasewait">Por favor, espere</string>
+    <string name="TotalTime">Tempo total </string>
+    <string name="TotalDistance">Distância total </string>
+    <string name="networksenabletext">Mapa novo será carregado quando o seu celular se conectar à internet , mas pode ver seus antigos guardados mapas virtuais por disising diálogo e abrir a galeria na barra de menu</string>
+
+</resources>

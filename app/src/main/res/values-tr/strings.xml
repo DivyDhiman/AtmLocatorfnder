@@ -1,0 +1,56 @@
+<resources>
+
+    <string name="atm">ATM</string>
+    <string name="bank">BANKA</string>
+    <string name="enableinternet">Senin İnternet\'e etkinleştirin</string>
+    <string name="skip">atlamak</string>
+    <string name="finish">Bitiş</string>
+    <string name="splashtext1">ATM ve BANKA LOCATOR</string>
+    <string name="splashtext3">ENERJİLİ TARAFINDAN ULTIMATE kodlayıcıları</string>
+
+    <string name="Alert">uyanık!</string>
+    <string name="internerfailed">Hata şey internet bağlantısı ile ters gitti</string>
+    <string name="noplace">HAYIR yakın arama ile yarıçapı artırmak lütfen bulundu</string>
+    <string name="note">Not : Yüksek öncelikli hassasiyeti yüksek pil gücü tüketebilir</string>
+    <string name="highpriority">Yüksek öncelikli hassasiyeti</string>
+    <string name="balancepriority">Denge öncelikli hassasiyeti</string>
+    <string name="lowpriority">Düşük öncelikli hassasiyeti</string>
+    <string name="atmlocator">Atm Belirleme</string>
+    <string name="banklocator">Banka Belirleme</string>
+    <string name="atmbanklocator">Atm ve Banka Bulucu</string>
+    <string name="Directionr">Harita yönü</string>
+    <string name="nearbyatm">By Atm yakınlarında</string>
+    <string name="nearbybank">By Bankası yakınlarında</string>
+    <string name="nonearbyatm">Hiçbir Yakın atm tarafından dek</string>
+    <string name="nonearbybank">Hiçbir Yakın banka tarafından dek</string>
+
+    <string name="gpssetting">GPS AYARLARI</string>
+    <string name="gpsenabletext">GPS etkinleştirmek değil! ayarlar menüsüne gitmek ister misin?</string>
+    <string name="setting">Ayarlar</string>
+    <string name="cancel">İptal etmek</string>
+    <string name="virtualpathtext">Sanal Haritası Yolu</string>
+    <string name="save">Kaydet</string>
+    <string name="proceed">İlerlemek</string>
+    <string name="filename">Görüntü adını girin Lütfen</string>
+    <string name="savevirtual">Sanal Haritası başarıyla kurtarmak</string>
+    <string name="imagefailed">Hata bir şeyler yanlış gitti sonra tekrar deneyin</string>
+
+    <string name="noimage">Hiçbir sanal harita henüz kaydedilmemiş</string>
+    <string name="virtualmap">Sanal Harita Galeri</string>
+    <string name="help">Yardım Edin</string>
+
+    <string name="swipe1">Seçim Noktası , ATM veya banka seçmek için</string>
+    <string name="swipe2">Arama için kişiselleştirilmiş arama ayar parametrelerini ayarlamak için</string>
+    <string name="swipe3">Herhangi bir isim Sanal Harita kaydedin ve bizim sağlanan iç Gallery çevrimdışı görüntüleyebilir</string>
+    <string name="swipe4">Burada son İstediğiniz konum dostum geliyor</string>
+
+    <string name="ok">Tamam</string>
+    <string name="Destination">Hedef</string>
+    <string name="YourStartLocation">Start Yeri</string>
+    <string name="Radius">Yarıçap :-</string>
+    <string name="Pleasewait">Lütfen bekle</string>
+    <string name="TotalTime">Toplam zaman </string>
+    <string name="TotalDistance">Toplam mesafe </string>
+    <string name="networksenabletext">Yeni Harita mobil internete bağlı olsun yüklenecek , ancak diyalog disising ile eski kaydedilmiş sanal haritaları görüntüleyebilir ve menü çubuğundan galeri açmak</string>
+
+</resources>

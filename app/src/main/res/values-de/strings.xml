@@ -1,0 +1,58 @@
+<resources>
+
+    <string name="atm">Geldautomat</string>
+    <string name="bank">BANK</string>
+    <string name="enableinternet">Bitte aktivieren Sie Ihre Internet</string>
+    <string name="skip">Überspringen</string>
+    <string name="finish">Fertig</string>
+    <string name="splashtext1">Geldautomat und BANK LOCATOR</string>
+    <string name="splashtext3">POWERED BY ULTIMATE -Codierer</string>
+
+    <string name="Alert">Aufmerksam!</string>
+    <string name="internerfailed">Oops etwas schief gelaufen ist mit Ihrer Internetverbindung</string>
+    <string name="noplace">NO in der Nähe gefunden Suche den Radius erhöhen bitte</string>
+    <string name="note">Hinweis : Hohe Priorität Genauigkeit hohe Batterieleistung verbrauchen</string>
+    <string name="highpriority">Hohe Priorität Genauigkeit</string>
+    <string name="balancepriority">Balance Priorität Genauigkeit</string>
+    <string name="lowpriority">Niedrige Priorität Genauigkeit</string>
+    <string name="atmlocator">Atm Locator</string>
+    <string name="banklocator">Bank Locator</string>
+    <string name="atmbanklocator">Atm und die Bank Locator</string>
+    <string name="Directionr">Karte Richtung</string>
+    <string name="nearbyatm">In der Nähe von Atm</string>
+    <string name="nearbybank">Near By Bank</string>
+    <string name="nonearbyatm">In der Nähe Mit Bank</string>
+    <string name="nonearbybank">Nein In der Nähe Bank bis</string>
+
+    <string name="gpssetting">GPS-Einstellungen</string>
+    <string name="gpsenabletext">GPS ist nicht aktiviert ! Möchten Sie die Einstellungen -Menü zu gehen ?</string>
+    <string name="setting">Einstellungen</string>
+    <string name="cancel">Stornieren</string>
+    <string name="virtualpathtext">Virtuelle Kartenpfad</string>
+    <string name="save">sparen</string>
+    <string name="proceed">Vorgehen</string>
+    <string name="savevirtual">Virtuelle Karte speichern erfolgreich</string>
+    <string name="imagefailed">Oops etwas schief gelaufen Bitte versuchen Sie es später noch einmal</string>
+    <string name="filename">Bitte geben Sie Bildname</string>
+
+    <string name="noimage">Keine virtuellen Karte gespeichert noch</string>
+
+    <string name="virtualmap">Virtuelle Karte Galerie</string>
+    <string name="help">Hilfe</string>
+
+    <string name="swipe1">Auswahlpunkt , zu wählen, für ATM oder Bank</string>
+    <string name="swipe2">So stellen Sie die personalisierte Suche Einstellparameter für die Suche</string>
+    <string name="swipe3">Kann die virtuelle Karte mit einem beliebigen Namen speichern und offline durch unsere bereitgestellt interne Galerieansicht</string>
+    <string name="swipe4">Das letzte Mal hier kommt die gewünschte Position Kumpel</string>
+
+    <string name="ok">OK</string>
+    <string name="Destination">Reiseziel</string>
+    <string name="YourStartLocation">Ihr Startort</string>
+    <string name="Radius">Radius :-</string>
+    <string name="Pleasewait">Warten Sie mal</string>
+    <string name="TotalTime">Gesamtzeit </string>
+    <string name="TotalDistance">Gesamtentfernung </string>
+
+    <string name="networksenabletext">Neue Karte wird geladen, wenn Ihr Handy mit dem Internet verbunden zu werden , kann aber durch disising Dialog Ihre alte gespeicherte virtuelle Karten anzeigen und die Galerie in der Menüleiste öffnen</string>
+
+</resources>

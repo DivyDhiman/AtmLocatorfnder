@@ -1,0 +1,59 @@
+<resources>
+
+    <string name="atm">банкомат</string>
+    <string name="bank">БАНКА</string>
+    <string name="enableinternet">Молимо Вас да омогућите Интернет</string>
+    <string name="skip">прескочити</string>
+    <string name="finish">завршити</string>
+    <string name="splashtext1">банкомат и БАНКА Локатор</string>
+    <string name="splashtext3">ПОВЕРЕД БИ УЛТИМАТЕ цодерс</string>
+
+    <string name="Alert">опрезан!</string>
+    <string name="internerfailed">Упс нешто није у реду са интернет везом</string>
+    <string name="noplace">НЕ у близини Тражена молимо повећати радијус</string>
+    <string name="note">Напомена : Висока прецизност приоритет може да троши велику снагу батерије</string>
+    <string name="highpriority">Високи приоритет тачност</string>
+    <string name="balancepriority">Биланс приоритет тачност</string>
+    <string name="lowpriority">Низак приоритет тачност</string>
+    <string name="atmlocator">банкомат Лоцатор</string>
+    <string name="banklocator">БАНКА Локатор</string>
+    <string name="atmbanklocator">банкомат и БАНКА Локатор</string>
+    <string name="Directionr">мапа Дирецтион</string>
+    <string name="nearbyatm">У близини банкомат</string>
+    <string name="nearbybank">У близини БАНКА</string>
+    <string name="nonearbyatm">Не У близини банкомат до</string>
+    <string name="nonearbybank">Не У близини БАНКА до</string>
+
+    <string name="gpssetting">ГПС подешавања</string>
+    <string name="gpsenabletext">ГПС није омогући ! Желим да идем у мени за подешавање ?</string>
+
+    <string name="networksenabletext">Нова карта ће учитати када мобилни повежу на интернет , али могу да виде своје старе сачуване виртуелне карте за дисисинг дијалог и отворити галерију из менија</string>
+
+    <string name="setting">Подешавања</string>
+    <string name="cancel">отказати</string>
+    <string name="virtualpathtext">Виртуал Карта Пут</string>
+    <string name="save">саве</string>
+    <string name="proceed">поступити</string>
+    <string name="filename">Молимо Вас да унесете име Имаге</string>
+    <string name="savevirtual">Виртуал Карта саве успешно</string>
+    <string name="imagefailed">Упс нешто није у реду Покушајте поново касније</string>
+
+    <string name="noimage">Но виртуелна карта сачуван још</string>
+
+    <string name="virtualmap">Виртуал Карта Галерија</string>
+    <string name="help">Помоћ</string>
+
+    <string name="swipe1">Избор тачка , да бисте изабрали за банкомату или банку</string>
+    <string name="swipe2">Да подесите персонализоване параметре подешавања претраге за претрагу</string>
+    <string name="swipe3">Може Саве тхе Виртуал Мап било којим именом и видели га онлине наше пружа унутрашње галерији</string>
+    <string name="swipe4">Ласт долази жељени локације пријатеља</string>
+
+    <string name="ok">ок</string>
+    <string name="Destination">дестинација</string>
+    <string name="YourStartLocation">Почетни Локација</string>
+    <string name="Radius">полупречник :-</string>
+    <string name="Pleasewait">Сачекајте</string>
+    <string name="TotalTime">Укупно време </string>
+    <string name="TotalDistance">Укупна Удаљеност </string>
+
+</resources>

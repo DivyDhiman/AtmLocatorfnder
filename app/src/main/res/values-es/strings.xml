@@ -1,0 +1,57 @@
+<resources>
+
+    <string name="atm">Cajero automático</string>
+    <string name="bank">BANCO</string>
+    <string name="enableinternet">Por favor, activa su Internet</string>
+    <string name="skip">Omitir</string>
+    <string name="finish">Terminar</string>
+    <string name="splashtext1">Cajero automático y BANCO LOCADOR</string>
+    <string name="splashtext3">ACCIONADO POR ÚLTIMA CODIFICADORES</string>
+
+    <string name="Alert">Alerta!</string>
+    <string name="internerfailed">Vaya algo salió mal con su conexión a Internet</string>
+    <string name="noplace">No Cerca de la búsqueda por favor encontrada aumentar el radio</string>
+    <string name="note">Nota: La precisión de alta prioridad puede consumir la energía de la batería de alto</string>
+    <string name="highpriority">Exactitud alta prioridad</string>
+    <string name="balancepriority">Exactitud prioridad equilibrio</string>
+    <string name="lowpriority">Exactitud baja prioridad</string>
+    <string name="atmlocator">Atm Locator</string>
+    <string name="banklocator">Banco Locator</string>
+    <string name="atmbanklocator">Atm y el Banco Locator</string>
+    <string name="Directionr">Dirección mapa</string>
+    <string name="nearbyatm">Cerca de Atm</string>
+    <string name="nearbybank">Cerca de Banco</string>
+    <string name="nonearbyatm">No Cerca de atm hasta</string>
+    <string name="nonearbybank">No Cerca por el banco hasta</string>
+
+    <string name="gpssetting">Configuración del GPS</string>
+    <string name="gpsenabletext">GPS no se permiten ! ¿Quieres ir al menú de configuración ?</string>
+    <string name="setting">ajustes</string>
+    <string name="cancel">Cancelar</string>
+    <string name="virtualpathtext">Mapa del itinerario virtual</string>
+    <string name="save">Salvar</string>
+    <string name="proceed">Proceder</string>
+    <string name="savevirtual">Mapa virtual guardar correctamente</string>
+    <string name="imagefailed">Vaya algo salió mal Por favor, intente de nuevo más tarde</string>
+    <string name="filename">Por favor, introduzca el nombre de archivo</string>
+
+    <string name="noimage">Sin embargo mapa virtual guardados</string>
+
+    <string name="virtualmap">Mapa Virtual Galería</string>
+    <string name="help">Ayuda</string>
+
+    <string name="swipe1">Selección de puntos , para seleccionar por cajero automático o banco</string>
+    <string name="swipe2">Para establecer los parámetros de ajuste de búsqueda personalizados para la búsqueda</string>
+    <string name="swipe3">Puede guardar el mapa virtual por cualquier nombre y visualizarla en línea por nuestra galería interna provisto</string>
+    <string name="swipe4">Durar aquí viene su compañero ubicación deseada</string>
+
+    <string name="ok">DE ACUERDO</string>
+    <string name="Destination">Destino</string>
+    <string name="YourStartLocation">Su ubicación de inicio</string>
+    <string name="Radius">Radio :-</string>
+    <string name="Pleasewait">Por favor espera</string>
+    <string name="TotalTime">Tiempo Total </string>
+    <string name="TotalDistance">Distancia total </string>
+    <string name="networksenabletext">El nuevo mapa se carga cuando su móvil conectarse a Internet, pero puede ver los mapas virtuales guardados viejos por disising diálogo y abrir la galería desde la barra de menú</string>
+
+</resources>

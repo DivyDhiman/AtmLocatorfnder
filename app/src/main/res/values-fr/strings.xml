@@ -1,0 +1,57 @@
+<resources>
+
+    <string name="atm">AU M</string>
+    <string name="bank">BANQUE</string>
+    <string name="enableinternet">S\'il vous plaît permettre à votre Internet</string>
+    <string name="skip">Sauter</string>
+    <string name="finish">terminer</string>
+    <string name="splashtext1">AU M et BANQUE LOCATOR</string>
+    <string name="splashtext3">Alimenté par ULTIMATE CODEURS</string>
+
+    <string name="Alert">Alerte!</string>
+    <string name="internerfailed">Oops quelque chose se passait mal avec votre connexion Internet</string>
+    <string name="noplace">NO à proximité recherche a trouvé s\'il vous plaît augmenter le rayon</string>
+    <string name="note">Remarque: la précision de haute priorité peut consommer de l\'énergie de la batterie haute</string>
+    <string name="highpriority">Haute précision de priorité</string>
+    <string name="balancepriority">Précision de la priorité de la balance</string>
+    <string name="lowpriority">Précision de priorité faible</string>
+    <string name="atmlocator">Atm Locador</string>
+    <string name="banklocator">Bank Locador</string>
+    <string name="atmbanklocator">Atm et la Banque Locador</string>
+    <string name="Directionr">Carte Direction</string>
+    <string name="nearbyatm">Près de Atm</string>
+    <string name="nearbybank">Près de la Banque</string>
+    <string name="nonearbyatm">Non Prés par atm jusqu\'à</string>
+    <string name="nonearbybank">Non Prés par la banque jusqu\'à</string>
+
+    <string name="gpssetting">REGLAGES GPS</string>
+    <string name="gpsenabletext">GPS est pas permis ! Voulez-vous aller au menu des paramètres ?</string>
+    <string name="setting">Paramètres</string>
+    <string name="cancel">Annuler</string>
+    <string name="virtualpathtext">Carte virtuelle Chemin</string>
+    <string name="save">sauvegarder</string>
+    <string name="proceed">Procéder</string>
+    <string name="filename">S\'il vous plaît Entrez le nom de l\'image</string>
+    <string name="savevirtual">Carte virtuelle enregistrer avec succès</string>
+    <string name="imagefailed">Oops quelque chose allait mal S\'il vous plaît réessayer plus tard</string>
+
+    <string name="noimage">Pas de carte virtuelle encore sauvé</string>
+
+    <string name="virtualmap">Virtuel Map Gallery</string>
+    <string name="help">Aidez-moi</string>
+
+    <string name="swipe1">Point de sélection , pour sélectionner l\'ATM ou la Banque</string>
+    <string name="swipe2">Pour définir les paramètres de réglage de recherche personnalisé pour la recherche</string>
+    <string name="swipe3">Peut enregistrer la carte virtuelle par un nom et voir hors de notre galerie interne prévu</string>
+    <string name="swipe4">Last vient ici votre position buddy souhaitée</string>
+
+    <string name="ok">D\'accord</string>
+    <string name="Destination">Destination</string>
+    <string name="YourStartLocation">Votre Lieu de départ</string>
+    <string name="Radius">Rayon :-</string>
+    <string name="Pleasewait">S\'il vous plaît, attendez</string>
+    <string name="TotalTime">Temps total </string>
+    <string name="TotalDistance">Distance totale </string>
+    <string name="networksenabletext">Nouvelle carte se charge lorsque votre téléphone portable se connecter à Internet , mais peut voir vos anciennes cartes virtuelles enregistrées par disising dialogue et ouvrir la galerie depuis la barre de menu</string>
+
+</resources>

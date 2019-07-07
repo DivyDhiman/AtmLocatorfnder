@@ -1,0 +1,59 @@
+<resources>
+
+    <string name="atm">bankomat</string>
+    <string name="bank">BANKA</string>
+    <string name="enableinternet">Molimo omogućite Vaše internet</string>
+    <string name="skip">Preskočiti</string>
+    <string name="finish">Završi</string>
+    <string name="splashtext1">bankomat i BANKA LOCATOR</string>
+    <string name="splashtext3">Pokreće PO ULTIMATIVNO kodera</string>
+
+    <string name="Alert">uzbuna!</string>
+    <string name="internerfailed">Ups nešto nije u redu s internetskom vezom</string>
+    <string name="noplace">NE u blizini traganja našli molimo povećati radijus</string>
+    <string name="note">Napomena : Visoka točnost prioritet može konzumirati velike snage baterije</string>
+    <string name="highpriority">Visoka točnost prioritet</string>
+    <string name="balancepriority">Točnost prioritet Stanje</string>
+    <string name="lowpriority">Niska točnost prioritet</string>
+    <string name="atmlocator">Bankomat Locator</string>
+    <string name="banklocator">Banka Locator</string>
+    <string name="atmbanklocator">Bankomat i Banka Locator</string>
+    <string name="Directionr">karta Smjer</string>
+    <string name="nearbyatm">u blizini Bankomat</string>
+    <string name="nearbybank">u blizini Banka</string>
+    <string name="nonearbyatm">Ne u blizini Bankomat do</string>
+    <string name="nonearbybank">Ne u blizini Banka do</string>
+
+    <string name="gpssetting">GPS postavke</string>
+    <string name="gpsenabletext">GPS ne dobijete ! Želite li otići na izbornik postavki ?</string>
+
+    <string name="networksenabletext">Nova karta će učitati kada se vaš mobilni dobiti spojen na internet , ali mogu pogledati svoje stare spremljene virtualne karte po disising dijalog i otvoriti galeriju iz trake izbornika</string>
+
+    <string name="setting">Postavke</string>
+    <string name="cancel">Otkazati</string>
+    <string name="virtualpathtext">Virtualni Karta Put</string>
+    <string name="save">Uštedjeti</string>
+    <string name="proceed">postupiti</string>
+    <string name="filename">Unesite naziv slike</string>
+    <string name="savevirtual">Virtualni Karta spasiti uspješno</string>
+    <string name="imagefailed">Ups nešto nije u redu Pokušajte kasnije</string>
+
+    <string name="noimage">Ne virtualna karta još spremaju</string>
+
+    <string name="virtualmap">Virtualni Karta Galerija</string>
+    <string name="help">Pomoć</string>
+
+    <string name="swipe1">Izbor Point, odabrati za bankomata ili banci</string>
+    <string name="swipe2">Za postavljanje personalizirane parametre postavki pretraživanja za pretraživanje</string>
+    <string name="swipe3">Može Spasiti virtualnu mapu bilo kojim imenom i pregledati offline naš uvjetom unutarnje galeriji</string>
+    <string name="swipe4">Zadnji posjet dolazi željene lokacije prijatelja</string>
+
+    <string name="ok">u redu</string>
+    <string name="Destination">Odredište</string>
+    <string name="YourStartLocation">Vaš Početak Lokacija</string>
+    <string name="Radius">Radius :-</string>
+    <string name="Pleasewait">Molimo pričekajte</string>
+    <string name="TotalTime">ukupno vrijeme </string>
+    <string name="TotalDistance">Ukupna Udaljenost </string>
+
+</resources>

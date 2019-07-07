@@ -1,0 +1,59 @@
+<resources>
+
+    <string name="atm">ATM</string>
+    <string name="bank">NGÂN HÀNG</string>
+    <string name="enableinternet">Vui lòng kích hoạt Internet của bạn</string>
+    <string name="skip">nhảy</string>
+    <string name="finish">Hoàn thành</string>
+    <string name="splashtext1">ATM và NGÂN HÀNG LOCATOR</string>
+    <string name="splashtext3">POWERED DO TỐI HẬU lập trình viên</string>
+
+    <string name="Alert">Báo động!</string>
+    <string name="internerfailed">Rất tiếc một cái gì đó đã đi sai với kết nối internet của bạn</string>
+    <string name="noplace">Không gần bằng cách tìm kiếm tìm thấy xin tăng bán kính</string>
+    <string name="note">Lưu ý : độ chính xác ưu tiên cao có thể tiêu thụ năng lượng pin cao</string>
+    <string name="highpriority">độ chính xác ưu tiên cao</string>
+    <string name="balancepriority">độ chính xác ưu tiên cân đối</string>
+    <string name="lowpriority">độ chính xác ưu tiên thấp</string>
+    <string name="atmlocator">Atm Locator</string>
+    <string name="banklocator">NGÂN HÀNG Locator</string>
+    <string name="atmbanklocator">Atm và NGÂN HÀNG Locator</string>
+    <string name="Directionr">Bản đồ chỉ dẫn</string>
+    <string name="nearbyatm">gần Bằng Atm</string>
+    <string name="nearbybank">gần Bằng NGÂN HÀNG</string>
+    <string name="nonearbyatm">Không gần Bằng atm đến</string>
+    <string name="nonearbybank">Không gần Bằng NGÂN HÀNG đến</string>
+
+    <string name="gpssetting">Cài đặt GPS</string>
+    <string name="gpsenabletext">GPS không được phép ! Bạn muốn đi đến menu cài đặt ?</string>
+
+    <string name="networksenabletext">Mới Bản đồ sẽ được tải khi điện thoại di động của bạn được kết nối với Internet , nhưng có thể xem bản đồ ảo lưu cũ của bạn bằng cách disising đối thoại và mở các thư viện từ thanh thực đơn</string>
+
+    <string name="setting">Cài đặt</string>
+    <string name="cancel">hủy bỏ</string>
+    <string name="virtualpathtext">ảo Bản đồ Con đường</string>
+    <string name="save">Tiết kiệm</string>
+    <string name="proceed">tiến hành</string>
+    <string name="filename">Xin vui lòng nhập tên ảnh</string>
+    <string name="savevirtual">ảo Bản đồ lưu lại thành công</string>
+    <string name="imagefailed">Rất tiếc một cái gì đó đã đi sai Xin vui lòng thử lại sau</string>
+
+    <string name="noimage">No ảo Bản đồ nào được lưu</string>
+
+    <string name="virtualmap">ảo Bản đồ Bộ sưu tập</string>
+    <string name="help">Cứu giúp</string>
+
+    <string name="swipe1">Lựa chọn điểm , chọn cho ATM hoặc Ngân hàng</string>
+    <string name="swipe2">Để thiết lập các thông số thiết lập tìm kiếm được cá nhân hoá cho tìm kiếm</string>
+    <string name="swipe3">Có thể cứu Bản đồ ảo theo tên bất kỳ và xem nó ẩn Gallery nội quy của chúng tôi</string>
+    <string name="swipe4">Đến đây lần đến mong muốn vị trí bạn bè của bạn</string>
+
+    <string name="ok">được</string>
+    <string name="Destination">Nơi đến</string>
+    <string name="YourStartLocation">Của bạn Bắt đầu từ</string>
+    <string name="Radius">Radius :-</string>
+    <string name="Pleasewait">xin vui lòng chờ</string>
+    <string name="TotalTime">Tổng thời gian </string>
+    <string name="TotalDistance">Tổng số cách </string>
+
+</resources>

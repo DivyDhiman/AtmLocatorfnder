@@ -1,0 +1,59 @@
+<resources>
+
+    <string name="atm">Pengeautomat</string>
+    <string name="bank">BANK</string>
+    <string name="enableinternet">Aktiver din Internet</string>
+    <string name="skip">Springe</string>
+    <string name="finish">Slutte</string>
+    <string name="splashtext1">Pengeautomat og BANK LOCATOR</string>
+    <string name="splashtext3">POWERED VED ULTIMATE CODERS</string>
+
+    <string name="Alert">Alert!</string>
+    <string name="internerfailed">Ups noget gik galt med din internetforbindelse</string>
+    <string name="noplace">NO nær ved søgning fandt du øge radius</string>
+    <string name="note">Bemærk : Høj prioritet nøjagtighed kan forbruge høj batteri</string>
+    <string name="highpriority">Høj prioritet nøjagtighed</string>
+    <string name="balancepriority">Balance prioritet nøjagtighed</string>
+    <string name="lowpriority">Lav prioritet nøjagtighed</string>
+    <string name="atmlocator">Pengeautomat Locator</string>
+    <string name="banklocator">Bank Locator</string>
+    <string name="atmbanklocator">Pengeautomat and Bank Locator</string>
+    <string name="Directionr">Kort Retning</string>
+    <string name="nearbyatm">Nær ved Ved Pengeautomat</string>
+    <string name="nearbybank">Nær ved Ved Bank</string>
+    <string name="nonearbyatm">Ingen Nær ved Ved Pengeautomat indtil</string>
+    <string name="nonearbybank">Ingen Nær ved Ved bank indtil</string>
+
+    <string name="gpssetting">GPS-indstillinger</string>
+    <string name="gpsenabletext">GPS er ikke muligt ! Vil du gå til indstillingsmenuen ?</string>
+
+    <string name="networksenabletext">Nyt kort vil indlæse , når din mobiltelefon få forbindelse til internettet, men kan se dine gamle gemte virtuelle kort ved disising dialog og åbne galleriet fra menulinjen</string>
+
+    <string name="setting">Indstillinger</string>
+    <string name="cancel">Ophæve</string>
+    <string name="virtualpathtext">Virtuel Kort Sti</string>
+    <string name="save">Spare</string>
+    <string name="proceed">Fortsæt</string>
+    <string name="filename">Venligst Indtast Billede navn</string>
+    <string name="savevirtual">Virtuel Kort spare succes</string>
+    <string name="imagefailed">Ups noget gik galt Prøv igen senere</string>
+
+    <string name="noimage">Ingen Virtuel Kort gemt endnu</string>
+
+        <string name="virtualmap">Virtuel Kort Galleri</string>
+    <string name="help">Hjælp</string>
+
+    <string name="swipe1">Valg Point, til at vælge for Pengeautomat eller bank</string>
+    <string name="swipe2">For at indstille de personlige søgning indstilling parametre for søgning</string>
+    <string name="swipe3">Kan Gem Virtuel Kort ved enhver navn og se den offline ved vores forudsat intern galleri</string>
+    <string name="swipe4">Sidste her kommer din ønskede placering kammerat</string>
+
+    <string name="ok">Okay</string>
+    <string name="Destination">Bestemmelsessted</string>
+    <string name="YourStartLocation">Din startposition</string>
+    <string name="Radius">Radius :-</string>
+    <string name="Pleasewait">Vent venligst</string>
+    <string name="TotalTime">Total tid </string>
+    <string name="TotalDistance">Total Afstand </string>
+
+</resources>

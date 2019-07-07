@@ -1,0 +1,56 @@
+<resources>
+
+    <string name="atm">Банкомат</string>
+    <string name="bank">БАНКА</string>
+    <string name="enableinternet">Пожалуйста, включите Ваш Интернет</string>
+    <string name="skip">Пропускать</string>
+    <string name="finish">Конец</string>
+    <string name="splashtext1">Банкомат а также БАНКА ЛОКАТОР</string>
+    <string name="splashtext3">ПРИВЕДЕНО ULTIMATE кодеры</string>
+
+    <string name="Alert">бдительный!</string>
+    <string name="internerfailed">К сожалению, что-то пошло не так с подключением к Интернету</string>
+    <string name="noplace">NO рядом поиска не найдено , пожалуйста, увеличить радиус</string>
+    <string name="note">Примечание : Высокая точность приоритет может потреблять высокую мощность батареи</string>
+    <string name="highpriority">Высокая точность приоритет</string>
+    <string name="balancepriority">Точность баланса приоритетов</string>
+    <string name="lowpriority">Точность Низкий приоритет</string>
+    <string name="atmlocator">Банкоматы Локатор</string>
+    <string name="banklocator">Банка Локатор</string>
+    <string name="atmbanklocator">Банкоматы и банк Локатор</string>
+    <string name="Directionr">Карта Направление</string>
+    <string name="nearbyatm">Рядом с банкоматом</string>
+    <string name="nearbybank">Рядом с банком</string>
+    <string name="nonearbyatm">Нет Недалеко от атм до</string>
+    <string name="nonearbybank">Нет Рядом с банком до</string>
+
+    <string name="gpssetting">Настройка GPS</string>
+    <string name="gpsenabletext">GPS не позволит ! Хотите перейти в меню настроек ?</string>
+    <string name="setting">настройки</string>
+    <string name="cancel">Отмена</string>
+    <string name="virtualpathtext">Виртуальная карта Путь</string>
+    <string name="save">Сохранить</string>
+    <string name="proceed">продолжить</string>
+    <string name="filename">Пожалуйста, введите имя изображения</string>
+    <string name="savevirtual">Виртуальная карта успешно сохранить</string>
+    <string name="imagefailed">К сожалению, что-то пошло не так Пожалуйста, повторите попытку позже</string>
+
+    <string name="noimage">Нет виртуальной карты не сохраняются еще</string>
+    <string name="virtualmap">Виртуальная карта Галерея</string>
+    <string name="help">Помогите</string>
+
+    <string name="swipe1">Выбор точки , чтобы выбрать для банкомата или банка</string>
+    <string name="swipe2">Для того, чтобы установить индивидуальные параметры настройки поиска для поиска</string>
+    <string name="swipe3">Может сохранить виртуальную карту любым именем и его просмотра в автономном режиме с нашей внутренней галерее , предоставленной</string>
+    <string name="swipe4">Здесь в последний раз приходит на ваш желаемый приятель местоположения</string>
+
+    <string name="ok">ОК</string>
+    <string name="Destination">Место назначения</string>
+    <string name="YourStartLocation">Ваш Старт Расположение</string>
+    <string name="Radius">Радиус :-</string>
+    <string name="Pleasewait">пожалуйста, подождите</string>
+    <string name="TotalTime">Общее время </string>
+    <string name="TotalDistance">Общее расстояние </string>
+    <string name="networksenabletext">Новая карта будет загружаться , когда ваш мобильный подключиться к Интернету , но могут просматривать старые сохраненные виртуальные карты с помощью disising диалога и открыть галерею из меню</string>
+
+</resources>

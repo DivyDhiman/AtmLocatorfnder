@@ -1,0 +1,57 @@
+<resources>
+
+    <string name="atm">自动取款机</string>
+    <string name="bank">银行</string>
+    <string name="enableinternet">请启用您的互联网</string>
+    <string name="skip">跳跃</string>
+    <string name="finish">完</string>
+    <string name="splashtext1">自动取款机 和 银行 定位器</string>
+    <string name="splashtext3">POWERED 通过 最终 编码器</string>
+
+    <string name="Alert">警报!</string>
+    <string name="internerfailed">哎呀出事了你的互联网连接</string>
+    <string name="noplace">NO通过搜索附近发现请增加半径</string>
+    <string name="note">注：高优先级精度高消耗电池电量</string>
+    <string name="highpriority">高优先级精度</string>
+    <string name="balancepriority">平衡精度优先</string>
+    <string name="lowpriority">低优先级精度</string>
+    <string name="atmlocator">自动取款机 定位器</string>
+    <string name="banklocator">银行定位器</string>
+    <string name="atmbanklocator">自动取款机 和银行定位器</string>
+    <string name="Directionr">地图说明</string>
+    <string name="nearbyatm">附近的自动柜员机</string>
+    <string name="nearbybank">附近银行</string>
+    <string name="nonearbyatm">没有通过 自动取款机 直到近</string>
+    <string name="nonearbybank">没有通过银行直到近</string>
+
+    <string name="gpssetting">全球定位系统 设置</string>
+    <string name="gpsenabletext">全球定位系统是不启用！想去设置菜单？</string>
+    <string name="setting">设置</string>
+    <string name="cancel">取消</string>
+    <string name="virtualpathtext">虚拟地图路径</string>
+    <string name="save">保存</string>
+    <string name="proceed">继续</string>
+    <string name="filename">请输入图片名称</string>
+    <string name="savevirtual">虚拟地图保存成功</string>
+    <string name="imagefailed">哎呀出错了，请稍后重试</string>
+
+    <string name="noimage">没有虚拟地图还保存</string>
+
+    <string name="virtualmap">虚拟地图图库</string>
+    <string name="help">帮帮我</string>
+
+    <string name="swipe1">选择点，以选择 自动取款机 或银行</string>
+    <string name="swipe2">要设置搜索个性化搜索的设置参数</string>
+    <string name="swipe3">可以用任何名称保存实景地图，并查看其脱机由我们提供的内部图库</string>
+    <string name="swipe4">上次说到这里您想要的位置的好友</string>
+
+    <string name="ok">好</string>
+    <string name="Destination">目的地</string>
+    <string name="YourStartLocation">您的位置开始</string>
+    <string name="Radius">半径 :-</string>
+    <string name="Pleasewait">请稍候</string>
+    <string name="TotalTime">总时间 </string>
+    <string name="TotalDistance">总距离 </string>
+    <string name="networksenabletext">新地图将加载时，您的手机可以连接到互联网，但可以通过对话disising查看保存的旧地图的虚拟并打开从菜单栏中画廊</string>
+
+</resources>
